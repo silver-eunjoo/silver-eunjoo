@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 
 ### 🐳 Github-stats
 ![Eunjoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=silver-eunjoo&show_icons=true&theme=radical)
-
 ### 🌱 Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeeun5423)](https://solved.ac/leeeun5423/)
 
