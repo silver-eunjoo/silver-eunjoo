@@ -1,4 +1,4 @@
-## Eunjoo Lee 💗 
+## Eunjoo Lee 💗 [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fsilver-eunjoo?color=green&label=hits&size=small)](https://github.com/silver-eunjoo)
 
 <!--
 **silver-eunjoo/silver-eunjoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
